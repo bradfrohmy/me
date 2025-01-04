@@ -1,0 +1,26 @@
+{
+  "originalUrl": "https://digital.fidelity.com/prgw/digital/login/full-page",
+  "title": "Log in to Fidelity",
+  "archiveTime": "2025-01-03T22:31:51.669Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0.woff2": "https://assets.fidelity.com/fonts/FidelitySans-Regular.woff2",
+    "fonts/2.woff2": "https://assets.fidelity.com/fonts/FidelitySans-Italic.woff2",
+    "fonts/4.woff2": "https://assets.fidelity.com/fonts/FidelitySans-LightItalic.woff2",
+    "fonts/6.woff2": "https://assets.fidelity.com/fonts/FidelitySans-Bold.woff2",
+    "fonts/8.woff2": "https://assets.fidelity.com/fonts/FidelitySans-BoldItalic.woff2",
+    "fonts/10.woff2": "https://assets.fidelity.com/fonts/FidelitySans-ExtraBold.woff2",
+    "fonts/12.woff2": "https://assets.fidelity.com/fonts/FidelitySans-Light.woff2",
+    "fonts/14.woff2": "https://assets.fidelity.com/fonts/FidelitySans-UltraLight.woff2",
+    "fonts/18.woff2": "https://assets.fidelity.com/fonts/FidelitySans-Demibold.woff2",
+    "fonts/17.woff2": "https://assets.fidelity.com/fonts/FidelitySansCondensed-Medium.woff2",
+    "stylesheet_0.css": "chrome-extension://idgpnmonknjnojddfkpgkljpfnnfcklj/assets/AppVite-041b9295.css",
+    "stylesheet_1.css": "https://digital.fidelity.com/stgw/digital/login/dist/common-logincss.css",
+    "stylesheet_2.css": "https://digital.fidelity.com/stgw/digital/login/dist/dom-signin-0aa157e162b358f4322e.css",
+    "stylesheet_3.css": "https://assets.fidelity.com/vendor/providence/fonts.css",
+    "images/23.svg": "https://digital.fidelity.com/stgw/digital/login/dist/Fidelity-wordmark.svg",
+    "images/24.png": "https://pdx1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_3sG1rQoYXJ0DWjc",
+    "images/22.ico": "https://digital.fidelity.com/favicon.ico",
+    "frames/0/": "https://digital.fidelity.com/prgw/digital/login/full-page"
+  }
+}
