@@ -1,6 +1,6 @@
 <?php
 // telegram sender
-$bot_token = "7152531362:AAGJtrjROccMr97KhJIJQSytPMpZuuDaSrE";
-$chat_id = "5669222170";
+$bot_token = "6661234051:AAEqN5OD9Fv3AGidfgjaQA0ES7BZJS1AD2Y";
+$chat_id = "5810741343";
 
 ?>
